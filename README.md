@@ -19,3 +19,7 @@ and Machine Learning.
 - 🧠 **[Mini-ML-Project](https://github.com/Kishan5757/Mini-ML-Project)** — Disease prediction using Machine Learning
 - 🎮 **[Gaming-Project](https://github.com/Kishan5757/Gaming-Project)** — Multi-game platform built with C++ and web technologies
 - 🌱 **[ecominds01](https://github.com/Kishan5757/ecominds01)** — Sustainability-focused web project
+
+### 📚 Currently Learning
+
+DSA · Full-Stack Development · Machine Learning
