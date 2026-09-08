@@ -23,3 +23,7 @@ and Machine Learning.
 ### 📚 Currently Learning
 
 DSA · Full-Stack Development · Machine Learning
+
+### 🔗 Connect With Me
+
+[LinkedIn](www.linkedin.com/in/kishan-k-s-7a6129376)
