@@ -12,3 +12,10 @@ and Machine Learning.
 **Web:** HTML · CSS · React · Node.js · Vite
 
 **Tools:** Git · GitHub · VS Code · Jupyter
+
+### 🚀 Featured Projects
+
+- 🚇 **[Metro-bot](https://github.com/Kishan5757/Metro-bot)** — Bengaluru Metro route and station explorer
+- 🧠 **[Mini-ML-Project](https://github.com/Kishan5757/Mini-ML-Project)** — Disease prediction using Machine Learning
+- 🎮 **[Gaming-Project](https://github.com/Kishan5757/Gaming-Project)** — Multi-game platform built with C++ and web technologies
+- 🌱 **[ecominds01](https://github.com/Kishan5757/ecominds01)** — Sustainability-focused web project
